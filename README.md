@@ -1,10 +1,12 @@
-# ATAK Plugin Template
+
+# atak-5.6-plugin-template
 
 This is a clean, "blank slate" template for developing private ATAK plugins. It is based on the ATAK 5.6.0 SDK and follows modern plugin development patterns.
 
+Repository: https://github.com/aegorsuch/atak-5.6-plugin-template
+
 ## Getting Started
 
-### 1. Prerequisites
 - **ATAK SDK:** This template assumes you are working within an ATAK SDK environment.
 - **Android Studio:** Latest stable version recommended.
 - **JDK 17:** Required for ATAK 5.x development.
@@ -40,6 +42,7 @@ Run the following to build the APK:
 ./gradlew assembleCivDebug
 ```
 The resulting APK will be located in `app/build/outputs/apk/civ/debug/`.
+
 
 ---
 *Note: This template is provided as-is for the ATAK development community.*
